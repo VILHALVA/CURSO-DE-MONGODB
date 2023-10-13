@@ -47,7 +47,3 @@ Para selecionar vendas com critérios específicos, você pode passar um objeto 
 ```javascript
 db.vendas.find({ valor: { $gt: 400 } })
 ```
-
-**Problema a ser Resolvido:**
-
-Se você tiver um problema específico relacionado a esses dados de vendas ou se desejar realizar uma operação específica, como calcular o total de vendas, encontrar as vendas de um produto específico ou executar qualquer outra tarefa, sinta-se à vontade para apresentar o problema, e ficarei feliz em ajudar a resolvê-lo. Lembre-se de que, no MongoDB, muitas operações podem ser realizadas usando a linguagem de consulta flexível do MongoDB, juntamente com recursos como agregações e projeções para atender às necessidades do seu projeto.
