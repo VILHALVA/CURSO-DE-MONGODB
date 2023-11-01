@@ -2,6 +2,7 @@
 👨‍⚖️MONGODB É UM BANCO DE DADOS NOSQL ORIENTADO A DOCUMENTOS, QUE OFERECE ALTA FLEXIBILIDADE E ESCALABILIDADE PARA ARMAZENAMENTO E RECUPERAÇÃO DE DADOS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=MONGODB)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.mongodb.com/docs/)
 <br>
 
