@@ -2,15 +2,8 @@
 👨‍⚖️MONGODB É UM BANCO DE DADOS NOSQL ORIENTADO A DOCUMENTOS, QUE OFERECE ALTA FLEXIBILIDADE E ESCALABILIDADE PARA ARMAZENAMENTO E RECUPERAÇÃO DE DADOS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=MONGODB)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.mongodb.com/docs/)
-<br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PL4Sl6eAbMK7RsS4Q8tSHTlOIaUmTG9eRS&si=haPY8dCifHsBy6L2)
-
-<img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # 💝CONCEITO:
 O MongoDB é um sistema de gerenciamento de banco de dados NoSQL (não relacional) que armazena dados em um formato de documento flexível, conhecido como BSON (Binary JSON). Ele difere dos bancos de dados relacionais tradicionais, como o MySQL ou o PostgreSQL, em sua estrutura de armazenamento e modelagem de dados.
