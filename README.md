@@ -1,11 +1,9 @@
 # CURSO DE MONGODB
 👨‍⚖️MONGODB É UM BANCO DE DADOS NOSQL ORIENTADO A DOCUMENTOS, QUE OFERECE ALTA FLEXIBILIDADE E ESCALABILIDADE PARA ARMAZENAMENTO E RECUPERAÇÃO DE DADOS.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.mongodb.com/docs/)
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PL4Sl6eAbMK7RsS4Q8tSHTlOIaUmTG9eRS&si=haPY8dCifHsBy6L2)
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# 💝CONCEITO:
+## CONCEITO:
 O MongoDB é um sistema de gerenciamento de banco de dados NoSQL (não relacional) que armazena dados em um formato de documento flexível, conhecido como BSON (Binary JSON). Ele difere dos bancos de dados relacionais tradicionais, como o MySQL ou o PostgreSQL, em sua estrutura de armazenamento e modelagem de dados.
 
 Aqui estão alguns conceitos-chave relacionados ao MongoDB:
@@ -26,7 +24,36 @@ Aqui estão alguns conceitos-chave relacionados ao MongoDB:
 
 O MongoDB é amplamente utilizado em aplicativos da web, móveis e IoT devido à sua flexibilidade, escalabilidade e capacidade de gerenciar dados não estruturados ou semiestruturados. Ele é particularmente adequado para casos de uso nos quais os requisitos de dados mudam com frequência ou quando se lida com grandes volumes de dados complexos.
 
-# 🔨 MONGODB != MYSQL:
+## SUA HISTÓRIA:
+1. **Origens (2007)**:
+   - O MongoDB foi desenvolvido por Dwight Merriman, Eliot Horowitz e Kevin Ryan como parte de um projeto interno na DoubleClick, uma empresa de publicidade online.
+   - O objetivo era criar um banco de dados escalável e de alto desempenho para lidar com os requisitos de armazenamento de dados em expansão na empresa.
+
+2. **Lançamento Público (2009)**:
+   - O MongoDB foi lançado publicamente em fevereiro de 2009 como um projeto de código aberto sob a licença AGPL (Affero General Public License).
+   - O lançamento atraiu a atenção da comunidade de desenvolvimento de software devido à sua abordagem inovadora para o armazenamento de dados, especialmente para aplicativos da web modernos.
+
+3. **Princípios de Design**:
+   - O MongoDB foi projetado com base nos princípios de document-oriented database, o que significa que os dados são armazenados em documentos BSON (Binary JSON), em vez de tabelas como em bancos de dados relacionais.
+   - Ele oferece uma estrutura flexível para armazenar e consultar dados, permitindo que os desenvolvedores trabalhem com dados semi-estruturados e altamente variáveis.
+
+4. **Adoção e Popularidade**:
+   - O MongoDB ganhou popularidade rapidamente entre os desenvolvedores devido à sua flexibilidade, escalabilidade e facilidade de uso.
+   - Ele foi adotado por uma ampla gama de empresas, desde startups até grandes corporações, para uma variedade de casos de uso, incluindo análise de big data, gerenciamento de conteúdo, aplicativos da web, IoT (Internet of Things) e muito mais.
+
+5. **Evolução e Versões**:
+   - O MongoDB continua a evoluir com o tempo, com lançamentos regulares que trazem novos recursos, melhorias de desempenho e correções de bugs.
+   - Algumas das versões mais significativas incluem o MongoDB 3.0 (2015), que introduziu a replicação multi-documento e o MongoDB 4.0 (2018), que trouxe transações multi-documento para clusters distribuídos.
+
+6. **Ecossistema e Ferramentas**:
+   - Além do próprio banco de dados, o MongoDB oferece uma ampla gama de ferramentas e serviços complementares, incluindo MongoDB Atlas (serviço de banco de dados como serviço), MongoDB Compass (interface gráfica de usuário), MongoDB Stitch (backend como serviço) e muito mais.
+   - O ecossistema em torno do MongoDB é rico e vibrante, com uma comunidade ativa de desenvolvedores, consultores, parceiros e contribuidores.
+
+7. **Adoção na Educação**:
+   - O MongoDB é frequentemente usado em ambientes educacionais para ensinar conceitos de bancos de dados NoSQL e para fornecer experiência prática aos alunos.
+   - A documentação abrangente e os recursos de aprendizado online tornam o MongoDB uma escolha popular para cursos e treinamentos de bancos de dados.
+
+## MONGODB != MYSQL:
 O MongoDB e o MySQL são dois sistemas de gerenciamento de banco de dados com abordagens e estruturas bastante diferentes. Aqui estão algumas das principais diferenças entre o MongoDB e o MySQL:
 
 1. **Modelagem de Dados:**
@@ -67,9 +94,8 @@ O MongoDB e o MySQL são dois sistemas de gerenciamento de banco de dados com ab
 
 Essas são algumas das diferenças-chave entre o MongoDB e o MySQL. A escolha entre eles depende dos requisitos específicos do seu projeto, incluindo a estrutura dos dados, a escalabilidade, o desempenho e o modelo de desenvolvimento que você pretende adotar.
 
-# 💚CARACTERISTICAS:
-## Características Positivas:
-
+## CARACTERISTICAS:
+### POSITIVAS:
 1. **Flexibilidade de Modelagem:** O MongoDB permite uma modelagem de dados extremamente flexível devido à sua estrutura de documento. Você pode adicionar ou remover campos sem a necessidade de um esquema rígido, o que é útil em cenários onde os requisitos de dados mudam frequentemente.
 
 2. **Escalabilidade Horizontal:** O MongoDB é altamente escalável e suporta a escalabilidade horizontal de forma nativa. Isso torna mais fácil lidar com grandes volumes de dados e cargas de trabalho em expansão.
@@ -78,11 +104,16 @@ Essas são algumas das diferenças-chave entre o MongoDB e o MySQL. A escolha en
 
 4. **Desempenho de Leitura Rápida:** O MongoDB pode fornecer desempenho de leitura rápido, especialmente quando os dados são distribuídos em vários servidores.
 
-## Características Negativas:
-
+### NEGATIVAS:
 1. **Consistência e Transações:** Embora o MongoDB suporte transações desde a versão 4.0, o suporte a transações é menos rigoroso do que em bancos de dados relacionais, o que pode ser problemático em cenários que exigem estrita consistência transacional.
 
 2. **Não Relacionamento Direto:** O MongoDB não é a melhor escolha para aplicativos que dependem fortemente de relações complexas entre tabelas. Modelar relacionamentos no MongoDB requer uma abordagem diferente.
 
 3. **Tamanho de Armazenamento:** Documentos BSON podem ser mais pesados em termos de armazenamento do que representações tabulares de dados, o que pode afetar o consumo de espaço em disco.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "ZURUBABEL"](https://youtube.com/playlist?list=PL4Sl6eAbMK7RsS4Q8tSHTlOIaUmTG9eRS&si=haPY8dCifHsBy6L2)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://www.mongodb.com/docs/)
+- [VEJA A SINTAXE](./SINTAXE.md)
 
