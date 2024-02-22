@@ -115,5 +115,6 @@ Essas são algumas das diferenças-chave entre o MongoDB e o MySQL. A escolha en
 - [CURSO CRIADO PELO "ZURUBABEL"](https://youtube.com/playlist?list=PL4Sl6eAbMK7RsS4Q8tSHTlOIaUmTG9eRS&si=haPY8dCifHsBy6L2)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://www.mongodb.com/docs/)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
 
