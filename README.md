@@ -117,4 +117,5 @@ Essas são algumas das diferenças-chave entre o MongoDB e o MySQL. A escolha en
 - [VEJA A DOCUMENTAÇÃO](https://www.mongodb.com/docs/)
 - [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA OS COMANDOS](./COMANDOS.md)
 
