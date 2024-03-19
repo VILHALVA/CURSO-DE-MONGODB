@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "65f9fc10bebe6ab3f4fc5bb2"
+  },
+  "cliente": "João",
+  "produto": "Jaqueta de Couro"
+},
+{
+  "_id": {
+    "$oid": "65f9fc10bebe6ab3f4fc5bb3"
+  },
+  "cliente": "Maria",
+  "produto": "Sushi de Salmão"
+},
+{
+  "_id": {
+    "$oid": "65f9fc10bebe6ab3f4fc5bb4"
+  },
+  "cliente": "Carlos",
+  "produto": "Hambúrguer Artesanal"
+},
+{
+  "_id": {
+    "$oid": "65f9fc10bebe6ab3f4fc5bb5"
+  },
+  "cliente": "Ana",
+  "produto": "Salada Caesar"
+},
+{
+  "_id": {
+    "$oid": "65f9fc10bebe6ab3f4fc5bb6"
+  },
+  "cliente": "Pedro",
+  "produto": "Tacos Mexicanos"
+},
+{
+  "_id": {
+    "$oid": "65f9fc10bebe6ab3f4fc5bb7"
+  },
+  "cliente": "Sofia",
+  "produto": "Massa Carbonara"
+},
+{
+  "_id": {
+    "$oid": "65f9fc10bebe6ab3f4fc5bb8"
+  },
+  "cliente": "Lucas",
+  "produto": "Sopa de Tomate"
+},
+{
+  "_id": {
+    "$oid": "65f9fc10bebe6ab3f4fc5bb9"
+  },
+  "cliente": "Julia",
+  "produto": "Pad Thai"
+},
+{
+  "_id": {
+    "$oid": "65f9fc10bebe6ab3f4fc5bba"
+  },
+  "cliente": "Mariana",
+  "produto": "Churrasco Brasileiro"
+},
+{
+  "_id": {
+    "$oid": "65f9fc10bebe6ab3f4fc5bbb"
+  },
+  "cliente": "Felipe",
+  "produto": "Poke Havaiano"
+}]

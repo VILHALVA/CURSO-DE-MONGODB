@@ -14,7 +14,7 @@ Para criar uma base de dados no MongoDB, siga estas etapas:
 
 3. **Crie a Base de Dados:** No shell do MongoDB, você pode criar uma base de dados usando o comando `use`. Por exemplo, para criar uma base de dados chamada "minha_base_de_dados", digite:
    ```
-   use minha_base_de_dados
+   use loja
    ```
 
 Nesse ponto, sua base de dados foi criada. Lembre-se de que no MongoDB, a base de dados não é realmente criada até que você insira dados nela. O MongoDB criará a base de dados automaticamente quando você inserir o primeiro documento nela.

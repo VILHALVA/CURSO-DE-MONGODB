@@ -46,3 +46,4 @@ O operador `$set` é fundamental para operações de atualização no MongoDB. E
 Ao usar `$set`, você pode atualizar apenas os campos desejados em um documento, mantendo os outros campos inalterados. Isso é crucial para a precisão e flexibilidade nas operações de atualização. Além do `$set`, o MongoDB oferece uma variedade de outros operadores para realizar operações de atualização mais avançadas, como `$inc` (incremento), `$push` (adicionar a um array), `$pull` (remover de um array), entre outros.
 
 O uso eficaz do operador `$set` permite que você mantenha a integridade dos seus dados durante as operações de atualização, garantindo que apenas os campos necessários sejam modificados sem afetar o restante do documento.
+

@@ -1,0 +1,45 @@
+db.loja.produtos.insertMany([
+    {
+        nome: "Jaqueta de Couro",
+        descricao: "Jaqueta de couro legítimo, estilo clássico e durável."
+    },
+    {
+        nome: "Relógio de Pulso",
+        descricao: "Relógio de pulso analógico, elegante e resistente à água."
+    },
+    {
+        nome: "Sapato Social",
+        descricao: "Sapato social em couro, ideal para eventos formais e ocasiões especiais."
+    },
+    {
+        nome: "Bolsa Feminina",
+        descricao: "Bolsa feminina elegante e espaçosa, perfeita para o dia a dia."
+    },
+    {
+        nome: "Óculos de Sol",
+        descricao: "Óculos de sol com proteção UV, design moderno e confortável."
+    },
+    {
+        nome: "Câmera Fotográfica",
+        descricao: "Câmera fotográfica digital com alta resolução e recursos avançados."
+    },
+    {
+        nome: "Mochila Escolar",
+        descricao: "Mochila escolar resistente e ergonômica, com compartimentos espaçosos."
+    },
+    {
+        nome: "Teclado Gamer",
+        descricao: "Teclado gamer mecânico, retroiluminado e com teclas programáveis."
+    },
+    {
+        nome: "Cadeira de Escritório",
+        descricao: "Cadeira de escritório ergonômica, ajustável e confortável para longas horas de trabalho."
+    },
+    {
+        nome: "Perfume Masculino",
+        descricao: "Perfume masculino com fragrância marcante e duradoura."
+    },
+    {
+        TAGS: ["FONE", "MICRO SD", "BONÉ", "VARA"]
+    }
+]);

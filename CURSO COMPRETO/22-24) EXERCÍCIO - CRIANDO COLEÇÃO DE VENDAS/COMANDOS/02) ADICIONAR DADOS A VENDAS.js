@@ -1,0 +1,13 @@
+// Adicionar 10 vendas à coleção "vendas"
+db.vendas.insertMany([
+    { cliente: "João", produto: "Jaqueta de Couro" },
+    { cliente: "Maria", produto: "Sushi de Salmão" },
+    { cliente: "Carlos", produto: "Hambúrguer Artesanal" },
+    { cliente: "Ana", produto: "Salada Caesar" },
+    { cliente: "Pedro", produto: "Tacos Mexicanos" },
+    { cliente: "Sofia", produto: "Massa Carbonara" },
+    { cliente: "Lucas", produto: "Sopa de Tomate" },
+    { cliente: "Julia", produto: "Pad Thai" },
+    { cliente: "Mariana", produto: "Churrasco Brasileiro" },
+    { cliente: "Felipe", produto: "Poke Havaiano" }
+])

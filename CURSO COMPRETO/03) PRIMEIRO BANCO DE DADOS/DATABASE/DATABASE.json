@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "65f9da86bebe6ab3f4fc5b77"
+  },
+  "nome": "Tênis Esportivo",
+  "descricao": "Tênis esportivo leve e confortável, ideal para atividades físicas e uso diário."
+},
+{
+  "_id": {
+    "$oid": "65f9da86bebe6ab3f4fc5b78"
+  },
+  "nome": "Smartphone Android",
+  "descricao": "Smartphone Android com tela de alta resolução, câmera de última geração e desempenho rápido."
+},
+{
+  "_id": {
+    "$oid": "65f9da86bebe6ab3f4fc5b79"
+  },
+  "nome": "Fones de Ouvido Bluetooth",
+  "descricao": "Fones de ouvido sem fio Bluetooth com cancelamento de ruído, oferecendo uma experiência de áudio imersiva."
+}]
