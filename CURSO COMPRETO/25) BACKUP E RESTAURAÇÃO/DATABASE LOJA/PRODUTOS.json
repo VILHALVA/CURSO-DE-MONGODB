@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "65f9da86bebe6ab3f4fc5b77"
+  },
+  "nome": "Tênis Esportivo",
+  "descricao": "Tênis esportivo leve e confortável, ideal para atividades físicas e uso diário."
+},
+{
+  "_id": {
+    "$oid": "65f9da86bebe6ab3f4fc5b78"
+  },
+  "nome": "Smartphone Android",
+  "descricao": "Smartphone Android com tela de alta resolução, câmera de última geração e desempenho rápido."
+},
+{
+  "_id": {
+    "$oid": "65f9da86bebe6ab3f4fc5b79"
+  },
+  "nome": "Fones de Ouvido Bluetooth",
+  "descricao": "Fones de ouvido sem fio Bluetooth com cancelamento de ruído, oferecendo uma experiência de áudio imersiva."
+},
+{
+  "_id": {
+    "$oid": "65f9e36ebebe6ab3f4fc5b7f"
+  },
+  "nome": "Jaqueta de Couro",
+  "descricao": "Jaqueta de couro legítimo, estilo clássico e durável."
+},
+{
+  "_id": {
+    "$oid": "65f9e36ebebe6ab3f4fc5b80"
+  },
+  "nome": "Relógio de Pulso",
+  "descricao": "Relógio de pulso analógico, elegante e resistente à água."
+},
+{
+  "_id": {
+    "$oid": "65f9e36ebebe6ab3f4fc5b81"
+  },
+  "nome": "Sapato Social",
+  "descricao": "Sapato social em couro, ideal para eventos formais e ocasiões especiais."
+},
+{
+  "_id": {
+    "$oid": "65f9e36ebebe6ab3f4fc5b82"
+  },
+  "nome": "Bolsa Feminina",
+  "descricao": "Bolsa feminina elegante e espaçosa, perfeita para o dia a dia."
+},
+{
+  "_id": {
+    "$oid": "65f9e36ebebe6ab3f4fc5b83"
+  },
+  "nome": "Óculos de Sol",
+  "descricao": "Óculos de sol com proteção UV, design moderno e confortável."
+},
+{
+  "_id": {
+    "$oid": "65f9e36ebebe6ab3f4fc5b84"
+  },
+  "nome": "Câmera Fotográfica",
+  "descricao": "Câmera fotográfica digital com alta resolução e recursos avançados."
+},
+{
+  "_id": {
+    "$oid": "65f9e36ebebe6ab3f4fc5b85"
+  },
+  "nome": "Mochila Escolar",
+  "descricao": "Mochila escolar resistente e ergonômica, com compartimentos espaçosos."
+},
+{
+  "_id": {
+    "$oid": "65f9e36ebebe6ab3f4fc5b86"
+  },
+  "nome": "Teclado Gamer",
+  "descricao": "Teclado gamer mecânico, retroiluminado e com teclas programáveis."
+},
+{
+  "_id": {
+    "$oid": "65f9e36ebebe6ab3f4fc5b87"
+  },
+  "nome": "Cadeira de Escritório",
+  "descricao": "Cadeira de escritório ergonômica, ajustável e confortável para longas horas de trabalho."
+},
+{
+  "_id": {
+    "$oid": "65f9e36ebebe6ab3f4fc5b88"
+  },
+  "nome": "Perfume Masculino",
+  "descricao": "Perfume masculino com fragrância marcante e duradoura."
+},
+{
+  "_id": {
+    "$oid": "65f9e478bebe6ab3f4fc5b8a"
+  },
+  "TAGS": [
+    "FONE",
+    "MICRO SD",
+    "BONÉ",
+    "VARA"
+  ]
+}]

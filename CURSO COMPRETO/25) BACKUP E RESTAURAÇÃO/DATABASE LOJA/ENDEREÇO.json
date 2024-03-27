@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "65f9ee90bebe6ab3f4fc5ba8"
+  },
+  "numero": 123,
+  "cidade": "NÃO SEI",
+  "estado": "NUNCA NEM VI",
+  "cep": "12345-678"
+}]
