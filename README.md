@@ -53,7 +53,7 @@ O MongoDB é amplamente utilizado em aplicativos da web, móveis e IoT devido à
    - O MongoDB é frequentemente usado em ambientes educacionais para ensinar conceitos de bancos de dados NoSQL e para fornecer experiência prática aos alunos.
    - A documentação abrangente e os recursos de aprendizado online tornam o MongoDB uma escolha popular para cursos e treinamentos de bancos de dados.
 
-## MONGODB != MYSQL:
+## MONGODB != [MYSQL:](https://github.com/VILHALVA/CURSO-DE-MYSQL)
 O MongoDB e o MySQL são dois sistemas de gerenciamento de banco de dados com abordagens e estruturas bastante diferentes. Aqui estão algumas das principais diferenças entre o MongoDB e o MySQL:
 
 1. **Modelagem de Dados:**
@@ -117,6 +117,5 @@ Essas são algumas das diferenças-chave entre o MongoDB e o MySQL. A escolha en
 - [VEJA A DOCUMENTAÇÃO](https://www.mongodb.com/docs/)
 - [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
-- [VEJA OS COMANDOS](./COMANDOS.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:MONGODB)
 
